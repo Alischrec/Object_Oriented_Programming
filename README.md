@@ -26,7 +26,7 @@ The focus of this project was to build a Node CLI that takes in information abou
 * [index.js](https://github.com/Alischrec/Object_Oriented_Programming/blob/main/app.js)
 
 ### Assets:
-* [library](https://github.com/Alischrec/Object_Oriented_Programming/tree/main/lib)
+* [Library](https://github.com/Alischrec/Object_Oriented_Programming/tree/main/lib)
 * [Templates](https://github.com/Alischrec/Object_Oriented_Programming/tree/main/templates)
 * [Tests](https://github.com/Alischrec/Object_Oriented_Programming/tree/main/test)
 
