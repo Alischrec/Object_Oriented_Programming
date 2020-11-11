@@ -20,7 +20,7 @@ Explore the [Project Page](https://github.com/Alischrec/Object_Oriented_Programm
 ## About the Project:
 The focus of this project was to build a Node CLI that takes in information about employees and generates an HTML webpage that displays summaries for each person. This project also focused on utilizing the Node Jest package for testing purposes. 
 
-<!-- ![Project Gif](assets/images/gif.gif) -->
+![Project Gif](assets/images/gif.gif)
 
 ### JavaScript:
 * [index.js](https://github.com/Alischrec/Object_Oriented_Programming/blob/main/app.js)
