@@ -6,8 +6,8 @@ Explore the [Project Page](https://github.com/Alischrec/Object_Oriented_Programm
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  <!-- * [JavaScript](#JavaScript) -->
-  <!-- * [Assets](#Assets) -->
+  * [JavaScript](#JavaScript)
+  * [Assets](#Assets)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
@@ -18,15 +18,17 @@ Explore the [Project Page](https://github.com/Alischrec/Object_Oriented_Programm
 * [Acknowledgements](#acknowledgements)
 
 ## About the Project:
-<!-- The focus of this project was to create a working Object_Oriented_Programming while utilizing Node.js for an simple and easy way to generate future README.md files. -->
+The focus of this project was to build a Node CLI that takes in information about employees and generates an HTML webpage that displays summaries for each person. This project also focused on utilizing the Node Jest package for testing purposes. 
 
 <!-- ![Project Gif](assets/images/gif.gif) -->
 
 ### JavaScript:
-<!-- * [index.js](https://github.com/Alischrec/Object_Oriented_Programming/blob/main/index.js) -->
+* [index.js](https://github.com/Alischrec/Object_Oriented_Programming/blob/main/app.js)
 
 ### Assets:
-<!-- * [images](https://github.com/Alischrec/Object_Oriented_Programming/tree/main/assets/images) -->
+* [library](https://github.com/Alischrec/Object_Oriented_Programming/tree/main/lib)
+* [Templates](https://github.com/Alischrec/Object_Oriented_Programming/tree/main/templates)
+* [Tests](https://github.com/Alischrec/Object_Oriented_Programming/tree/main/test)
 
 ### Built With:
 * This app is build upon [Node.js](https://nodejs.org/en/), [Jest](https://jestjs.io/), and the [Inquirer package](https://www.npmjs.com/package/inquirer)
