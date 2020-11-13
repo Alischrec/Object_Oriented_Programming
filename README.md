@@ -23,7 +23,7 @@ The focus of this project was to build a Node CLI that takes in information abou
 ![Project Gif](images/gif.gif)
 
 ### JavaScript:
-* [index.js](https://github.com/Alischrec/Object_Oriented_Programming/blob/main/app.js)
+* [app.js](https://github.com/Alischrec/Object_Oriented_Programming/blob/main/app.js)
 
 ### Assets:
 * [Library](https://github.com/Alischrec/Object_Oriented_Programming/tree/main/lib)
